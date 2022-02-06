@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edu</h1>
-<h3 align="center">My name is Edu, a 17 yo student who is very passionate and interested in technology and computer. I have acquired a vast amount of knowledge in various fields such as programming and graphic design. I'm currently studying Computer Science at University of Indonesia where I can learn much, put my knowledge and experience.</h3>
+<h3 align="center">My name is Edu, a 18 yo Computer Science student at Universitas Indonesia who is very passionate and interested in technology and computer. I have acquired a vast amount of knowledge in various fields such as programming and graphic design. I'm currently studying Computer Science at University of Indonesia where I can learn much, put my knowledge and experience.</h3>
 
 - 📫 How to reach me **edutjitrahardja@gmail.com**
 
