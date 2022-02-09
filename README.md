@@ -51,11 +51,9 @@
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-        alt="nextjs"
-        width="40"
         height="40"
-      />
+        alt="Next.js"
+        src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=nextdotjs" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img
@@ -95,9 +93,8 @@
       rel="noreferrer"
     >
       <img
-        src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+        src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"
         alt="flask"
-        width="40"
         height="40"
       />
     </a>
