@@ -1,18 +1,18 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Edu</h1>
-<h3 align="center">My name is Edu, a 18 yo Computer Science student at Universitas Indonesia who is very passionate and interested in technology and computer. I have acquired a vast amount of knowledge in various fields such as programming and graphic design. I'm currently studying Computer Science at University of Indonesia where I can learn much, put my knowledge and experience.</h3>
+<h3 align="center">A 18 y/o Computer Science student at Universitas Indonesia who is very passionate and interested in technology and computer. I have acquired a vast amount of knowledge in various fields such as programming and graphic design. I'm currently studying Computer Science at University of Indonesia where I can learn much, put my knowledge and experience.</h3>
 
-- 📫 How to reach me **edutjitrahardja@gmail.com**
+<p align="center">- 📫 How to reach me <a href="mailto:nayyara.airlangga@gmail.com"><strong>edutjitrahardja@gmail.com</strong></a></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/edutjie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edutjie" height="30" width="30" /></a>
 <a href="https://kaggle.com/edutjie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="edutjie" height="30" width="30" /></a>
 <a href="https://instagram.com/edutjie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edutjie" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/edutjie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="edutjie" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools that I've used and learned/learning:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools that I've used and learned/learning:</h3>
+<p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
         src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"
