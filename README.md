@@ -157,9 +157,9 @@
   </p>
 
 <br />
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edutjie&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="edutjie" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edutjie&show_icons=true&theme=tokyonight&locale=en" alt="edutjie" /></p>
 <br />
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edutjie&show_icons=true&theme=tokyonight&locale=en" alt="edutjie" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edutjie&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="edutjie" /></p>
 
 
 <!--
