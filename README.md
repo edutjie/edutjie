@@ -92,14 +92,21 @@
     </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv"
+        src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv&logoColor=990044"
         alt="opencv"
+        height="30"
+      />
+    </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy&logoColor=005577"
+        alt="numpy"
         height="30"
       />
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas"
+        src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=005599"
         alt="pandas"
         height="30"
       />
