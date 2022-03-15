@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Edu</h1>
 <h3 align="center">A 18 y/o Computer Science student at Universitas Indonesia who is very passionate and interested in technology and computer. I have acquired a vast amount of knowledge in various fields such as programming and graphic design. I'm currently studying Computer Science at University of Indonesia where I can learn much, put my knowledge and experience.</h3>
 
-<p align="center">- 📫 How to reach me <a href="mailto:nayyara.airlangga@gmail.com"><strong>edutjitrahardja@gmail.com</strong></a></p>
+<p align="center">- 📫 How to reach me <a href="mailto:edutjitrahardja@gmail.com"><strong>edutjitrahardja@gmail.com</strong></a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
