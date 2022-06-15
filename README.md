@@ -20,6 +20,13 @@
         height="30"
       />
     </a>
+    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java"
+        alt="python"
+        height="30"
+      />
+    </a>
     <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       target="_blank"
