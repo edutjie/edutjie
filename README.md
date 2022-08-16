@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Edu</h1>
-<h3 align="center">A 18 y/o Computer Science student at Universitas Indonesia who is very passionate and interested in technology and computer especially in Artificial Intelligence. I have acquired a vast amount of knowledge in various fields in programming such as Web Development, Machine Learning, etc. I'm currently studying Computer Science at University of Indonesia where I can learn much, put my knowledge and experience.</h3>
+<h3 align="center">A 18 y/o Computer Science student at Universitas Indonesia who is very passionate and interested in technology and computer especially in Artificial Intelligence. I have acquired a vast amount of knowledge in various fields in programming such as Machine Learning, Web Development, etc. I'm currently studying Computer Science at University of Indonesia where I can learn much, put my knowledge and experience.</h3>
 
 <p align="center">- 📫 How to reach me <a href="mailto:edutjitrahardja@gmail.com"><strong>edutjitrahardja@gmail.com</strong></a></p>
 
@@ -20,10 +20,47 @@
         height="30"
       />
     </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy&logoColor=005577"
+        alt="numpy"
+        height="30"
+      />
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=005599"
+        alt="tensorflow"
+        height="30"
+      />
+    </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow&logoColor=23FF6F00"
+        alt="pandas"
+        height="30"
+      />
+    </a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv&logoColor=990044"
+        alt="opencv"
+        height="30"
+      />
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+        alt="seaborn"
+        width="30"
+        height="30"
+      />
+    </a>
+    <br />
     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java"
-        alt="python"
+        src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"
+        alt="java"
         height="30"
       />
     </a>
@@ -79,6 +116,7 @@
         height="30"
       />
     </a>
+    <br />
     <a
       href="https://flask.palletsprojects.com/"
       target="_blank"
@@ -90,31 +128,16 @@
         height="30"
       />
     </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=008800"
+        alt="django"
+        height="30"/>
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img
         src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"
         alt="git"
-        height="30"
-      />
-    </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv&logoColor=990044"
-        alt="opencv"
-        height="30"
-      />
-    </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy&logoColor=005577"
-        alt="numpy"
-        height="30"
-      />
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=005599"
-        alt="pandas"
         height="30"
       />
     </a>
@@ -132,24 +155,17 @@
         height="30"
       />
     </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=008800"
-        alt="django"
-        height="30"/>
+        src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=blue"
+        alt="sqlite"
+        height="30"
+      />
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
         alt="c"
-        width="30"
-        height="30"
-      />
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-        alt="seaborn"
         width="30"
         height="30"
       />
