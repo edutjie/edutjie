@@ -195,8 +195,8 @@
 
 <br />
 <div style="display: flex;" align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=edutjie&show_icons=true&theme=tokyonight&locale=en" alt="edutjie" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edutjie&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="edutjie"  height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=edutjie&show_icons=true&theme=tokyonight&locale=en" alt="edutjie" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edutjie&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="edutjie"  height="150" />
 </div>
 
 <div align="center">
