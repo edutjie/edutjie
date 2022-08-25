@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Edu</h1>
-<h3 align="center">A 18 y/o Computer Science student at Universitas Indonesia who is very passionate and interested in technology and computer especially in Artificial Intelligence. I have acquired a vast amount of knowledge in various fields in programming such as Machine Learning, Web Development, etc. I'm currently studying Computer Science at University of Indonesia where I can learn much, put my knowledge and experience.</h3>
+<h5 align="center">A 18 y/o Computer Science student at Universitas Indonesia who is very passionate and interested in technology and computer especially in Artificial Intelligence. I have acquired a vast amount of knowledge in various fields in programming such as Machine Learning, Web Development, etc. I'm currently studying Computer Science at University of Indonesia where I can learn much, put my knowledge and experience.</h3>
 
 <p align="center">- 📫 How to reach me <a href="mailto:edutjitrahardja@gmail.com"><strong>edutjitrahardja@gmail.com</strong></a></p>
 
@@ -164,6 +164,13 @@
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img
+        src="https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=c%2B%2B&logoColor=white"
+        alt="c"
+        height="30"
+      />
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
         alt="c"
         width="30"
@@ -187,11 +194,14 @@
   </p>
 
 <br />
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edutjie&show_icons=true&theme=tokyonight&locale=en" alt="edutjie" /></p>
-<br />
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edutjie&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="edutjie" /></p>
+<div style="display: flex;" align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=edutjie&show_icons=true&theme=tokyonight&locale=en" alt="edutjie" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edutjie&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="edutjie"  height="200" />
+</div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+    <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
 <!--
 **edutjie/edutjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
