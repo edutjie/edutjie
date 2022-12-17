@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Edu</h1>
-<h5 align="center">A 18 y/o Computer Science student at Universitas Indonesia who is very passionate and interested in technology and computer especially in Artificial Intelligence. I have acquired a vast amount of knowledge in various fields in programming such as Machine Learning, Web Development, etc. I'm currently studying Computer Science at University of Indonesia where I can learn much, put my knowledge and experience.</h3>
+<h5 align="center">A 19 y/o Computer Science student at Universitas Indonesia who is very passionate and interested in technology and computer especially in Artificial Intelligence. I have acquired a vast amount of knowledge in various fields in programming such as Machine Learning, Web Development, etc. I'm currently studying Computer Science at University of Indonesia where I can learn much, put my knowledge and experience.</h3>
 
 <p align="center">- 📫 How to reach me <a href="mailto:edutjitrahardja@gmail.com"><strong>edutjitrahardja@gmail.com</strong></a></p>
 
