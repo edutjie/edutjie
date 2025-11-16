@@ -9,9 +9,9 @@
 
 🚀 I am currently learning and expanding my interests in **Reinforcement Learning**, **Embodied AI**, and **Multi-Agent Systems**.
 
-🌱 Continuously exploring, experimenting, evolving — and always excited for new opportunities and collaborations!
+🌱 Continuously exploring, experimenting, evolving — and always excited for new opportunities and collaborations! 
 
-<p align="center">- 📫 How to reach me <a href="mailto:edutjitrahardja@gmail.com"><strong>edutjitrahardja@gmail.com</strong></a></p>
+📫 Reach me out at <a href="mailto:edutjitrahardja@gmail.com"><strong>edutjitrahardja@gmail.com</strong>.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
