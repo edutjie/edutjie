@@ -1,17 +1,28 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Edu</h1>
-<h5 align="center">A Master's student at Tsinghua University who is very passionate and interested in technology and computer especially in AI. Currently, I'm doing research in AI fields, such as VLMs, CV and HCI at Tsinghua HCI Lab where I can learn much, put my knowledge and experience. I have acquired a vast amount of knowledge in various fields in programming such as Machine Learning, Software Engineering, etc. </h3>
+<!-- <h5 align="left">A passionate Master's of Advanced Computing student at Tsinghua University specializing in Artificial Intelligence (AI). Currently, I'm doing research in AI fields, such as VLMs, CV and HCI at Tsinghua HCI Lab. Previously, I had my bachelor's degree in Computer Science at University of Indonesia where I can learned a lot, and put my knowledge, experience, and efforts into Data/AI competitions and some researches, winning 3 golds and 4 silver and 5 publications. I have acquired a vast amount of knowledge in various fields in programming such as Machine Learning and Software Engineering, where I have applied during my intern experiences top companies like Traveloka, Maknadata, Media Kernels Indonesia, etc. Apart from that, currently I'm also interested in studying and exploring about reinforcement learning, embodied AI, and multi-agent system.</h3> -->
+
+🎓 A Master’s student in **Advanced Computing** at **Tsinghua University**, specializing in **Artificial Intelligence**. Previously, I completed my **Bachelor’s in Computer Science** at the **University of Indonesia**, where I sharpened my skills through competitive data science challenges and academic projects — earning **3 gold medals, 4 silver medals**, and contributing to **5 research publications**.
+
+🧠 I’m currently conducting research at the **Tsinghua HCI Lab**, working on topics across **Vision-Language Models (VLMs)**, **Computer Vision**, and **Human-Computer Interaction (HCI)**.
+
+💼 I’ve also applied my engineering and AI knowledge in industry through internships at **Traveloka**, **Maknadata**, **Media Kernels Indonesia**, and more — building real-world systems with strong focus on **Machine Learning**, **Software Engineering**, and scalable solutions.
+
+🚀 I am currently learning and expanding my interests in **Reinforcement Learning**, **Embodied AI**, and **Multi-Agent Systems**.
+
+🌱 Continuously exploring, experimenting, evolving — and always excited for new opportunities and collaborations!
 
 <p align="center">- 📫 How to reach me <a href="mailto:edutjitrahardja@gmail.com"><strong>edutjitrahardja@gmail.com</strong></a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/edutjie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edutjie" height="30" width="30" /></a>
+<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=33etmQUAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/512px-Google_Scholar_logo.svg.png?20200110094142" alt="edutjie" height="30" width="30" /></a>
 <a href="https://kaggle.com/edutjie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="edutjie" height="30" width="30" /></a>
 <a href="https://instagram.com/edutjie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edutjie" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/edutjie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="edutjie" height="30" width="30" /></a>
+<!-- <a href="https://www.hackerrank.com/edutjie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="edutjie" height="30" width="30" /></a> -->
 </p>
 
-<h3 align="center">Languages and Tools that I've used and learned/learning:</h3>
+<!-- <h3 align="center">Languages and Tools that I've used and learned/learning:</h3>
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
@@ -191,7 +202,7 @@
         height="30"
       />
     </a>
-  </p>
+  </p> -->
 
 <br />
 <div style="display: flex;" align="center"> 
