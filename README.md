@@ -16,7 +16,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/edutjie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edutjie" height="30" width="30" /></a>
-<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=33etmQUAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/512px-Google_Scholar_logo.svg.png?20200110094142" alt="edutjie" height="30" width="30" /></a>
+<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=33etmQUAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/960px-Google_Scholar_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="edutjie" height="30" width="30" /></a>
 <a href="https://kaggle.com/edutjie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="edutjie" height="30" width="30" /></a>
 <a href="https://instagram.com/edutjie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edutjie" height="30" width="30" /></a>
 <!-- <a href="https://www.hackerrank.com/edutjie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="edutjie" height="30" width="30" /></a> -->
@@ -205,10 +205,10 @@
   </p> -->
 
 <br />
-<div style="display: flex;" align="center"> 
+<!-- <div style="display: flex;" align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=edutjie&show_icons=true&theme=tokyonight&locale=en" alt="edutjie" height="150" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edutjie&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="edutjie"  height="150" />
-</div>
+</div> -->
 
 <div align="center">
     <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
